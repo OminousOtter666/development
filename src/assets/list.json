@@ -1,0 +1,100 @@
+{
+  "data": [
+    {
+      "id": 0,
+      "name": "Flutter Studio",
+      "priority": "High",
+      "est_time": 2,
+      "course": "CSCI 1300",
+      "img": "imgs/flutter.png"
+    },
+    {
+      "id": 1,
+      "name": "Final Portfolio",
+      "priority": "Low",
+      "est_time": 6,
+      "course": "CSCI 1300",
+      "img": "imgs/portfolio.png"
+    },
+    {
+      "id": 2,
+      "name": "Development",
+      "priority": "High",
+      "est_time": 10,
+      "course": "CSCI 1300",
+      "img": "imgs/development.png"
+    },
+    {
+      "id": 3,
+      "name": "Portfolio Reviews",
+      "priority": "Low",
+      "est_time": 4,
+      "course": "CSCI 1300",
+      "img": "imgs/reviews.png"
+    },
+    {
+      "id": 4,
+      "name": "Machine Translation",
+      "priority": "High",
+      "est_time": 8,
+      "course": "CSCI 1460",
+      "img": "imgs/translation.png"
+    },
+    {
+      "id": 5,
+      "name": "Dependency Parsing",
+      "priority": "High",
+      "est_time": 6,
+      "course": "CSCI 1460",
+      "img": "imgs/dependency.png"
+    },
+    {
+      "id": 6,
+      "name": "Downtown Development Analysis",
+      "priority": "Medium",
+      "est_time": 10,
+      "course": "URBN 1870D",
+      "img": "imgs/downtown_dev.png"
+    },
+    {
+      "id": 7,
+      "name": "City Plan Analysis",
+      "priority": "High",
+      "est_time": 5,
+      "course": "URBN 1870D",
+      "img": "imgs/city_plan.png"
+    },
+    {
+      "id": 8,
+      "name": "SRC Pt. 1",
+      "priority": "High",
+      "est_time": 3,
+      "course": "CSCI 1460",
+      "img": "imgs/src.png"
+    },
+    {
+      "id": 9,
+      "name": "Final Project",
+      "priority": "Low",
+      "est_time": 15,
+      "course": "CSCI 1410",
+      "img": "imgs/nlp.png"
+    },
+    {
+      "id": 10,
+      "name": "Supervised Learning",
+      "priority": "Medium",
+      "est_time": 7,
+      "course": "CSCI 1410",
+      "img": "imgs/sl.png"
+    },
+    {
+      "id": 11,
+      "name": "Reinforcement Learning",
+      "priority": "High",
+      "est_time": 6,
+      "course": "CSCI 1410",
+      "img": "imgs/rl.png"
+    }
+  ]
+}
